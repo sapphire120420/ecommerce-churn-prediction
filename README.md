@@ -20,7 +20,7 @@ The project addresses the following objectives:
 
 ## 📂 Project Structure
 
-- **Notebook:** [`K27_Nguyen_Thi_Nam_Phuong_Project3.ipynb`](https://colab.research.google.com/drive/1XQIpJkM2wkG87h7MEYbH-t7ZOxxbK6vp#scrollTo=9YSv_JwcbKG3)
+- **Notebook:** [`E-commerce Churn Prediction Project`](https://colab.research.google.com/drive/1XQIpJkM2wkG87h7MEYbH-t7ZOxxbK6vp#scrollTo=9YSv_JwcbKG3)
   - Contains the code for data exploration, machine learning model development, and user segmentation.
 
 - **Dataset:** `churn_predict.csv` (Not included in this repository for privacy reasons)
